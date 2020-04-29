@@ -139,6 +139,6 @@ body{
 /* Media Queries */
 @media screen and (min-width: 900px) {         
     .search-box{
-        padding-top: 60px;
+        padding-top: 100px;
     }
 }
